@@ -1,7 +1,7 @@
 ``
 # Hi there, I'm [Issam](https://github.com/mango17i) ☝️
 
-<a href="https://www.linkedin.com/in/lorenzo-giralt/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/issamhadjal/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 👨‍💻 Developer - Master 2 at Epitech
 <br/>
@@ -30,7 +30,7 @@
 # Mango17i
 
 <div style="display:flex;align-items:center;justify-content:center;">
- <img width="57%" src="https://github-readme-streak-stats.herokuapp.com/?user=Senzo13" />
- <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senzo13&show_icons=true&layout=compact&theme=algolia" alt="Mango17i's github stats" />
+ <img width="57%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mango17i" />
+ <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mango17i&show_icons=true&layout=compact&theme=algolia" alt="Mango17i's github stats" />
 </div>
 ``

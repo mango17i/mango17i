@@ -1,16 +1,36 @@
-### Hi there 👋
+``
+# Hi there, I'm [Issam](https://github.com/mango17i) ☝️
 
-<!--
-**mango17i/mango17i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/lorenzo-giralt/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-Here are some ideas to get you started:
+👨‍💻 Developer - Master 2 at Epitech
+<br/>
+🌍 South of France
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills 🛠️
+
+<div style="float: left; width: 49%; margin:2px;">
+  <img alt="Linux" width="33px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
+  <img alt="Kotlin" width="35px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
+    <img alt="Typescript" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
+      <img alt="JavaScript" width="33px" style="margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img alt="Symfony" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" />
+</div>
+
+<div style="float: left; width: 48%; margin:2px;">
+    <img alt="Node.js" width="59px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
+  <img alt="React.js" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+   <img alt="Angular" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
+  <img alt="Ionic" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" />
+  <img alt="Java" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+</div>
+
+<div style="clear: both;"></div>
+
+# Mango17i
+
+<div style="display:flex;align-items:center;justify-content:center;">
+ <img width="57%" src="https://github-readme-streak-stats.herokuapp.com/?user=Senzo13" />
+ <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senzo13&show_icons=true&layout=compact&theme=algolia" alt="Mango17i's github stats" />
+</div>
+``
